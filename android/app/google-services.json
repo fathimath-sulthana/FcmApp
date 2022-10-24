@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88818190840",
+    "project_id": "cloudapp-7cce8",
+    "storage_bucket": "cloudapp-7cce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88818190840:android:56834aa91a346144232e0d",
+        "android_client_info": {
+          "package_name": "com.cloudmessagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88818190840-gvup0um1hoqcgmcjhr0bn0erbt1bi9qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClVuHcrR5I1afSfcEHFWOax2syMFSAaSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88818190840-gvup0um1hoqcgmcjhr0bn0erbt1bi9qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
